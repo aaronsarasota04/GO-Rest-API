@@ -1,2 +1,2 @@
 # GO-Rest-API
-Rest API for https://openweathermap.org/current
+Rest API for https://open-meteo.com/
